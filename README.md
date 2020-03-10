@@ -15,7 +15,7 @@ How can you make them cross in 17 minutes?
 
 This Node.js script gives you two solutions:
 
-``js
+```js
 /**
  * type ICost = number
  * type IGroup = number[]
