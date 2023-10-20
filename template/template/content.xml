@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0"
+    xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0"
+    xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0"
+    xmlns:css3t="http://www.w3.org/TR/css3-text/"
+    xmlns:grddl="http://www.w3.org/2003/g/data-view#"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xforms="http://www.w3.org/2002/xforms"
+    xmlns:dom="http://www.w3.org/2001/xml-events"
+    xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0"
+    xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0"
+    xmlns:math="http://www.w3.org/1998/Math/MathML"
+    xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"
+    xmlns:ooo="http://openoffice.org/2004/office"
+    xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0"
+    xmlns:ooow="http://openoffice.org/2004/writer"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:drawooo="http://openoffice.org/2010/draw"
+    xmlns:oooc="http://openoffice.org/2004/calc"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0"
+    xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0"
+    xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"
+    xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2"
+    xmlns:tableooo="http://openoffice.org/2009/table"
+    xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"
+    xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0"
+    xmlns:rpt="http://openoffice.org/2005/report"
+    xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0"
+    xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0"
+    xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0"
+    xmlns:officeooo="http://openoffice.org/2009/office"
+    xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0"
+    xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0"
+    xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0"
+    xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0"
+    xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" office:version="1.3">
+    <office:scripts/>
+    <office:font-face-decls>
+        <style:font-face style:name="Chilanka" svg:font-family="Chilanka" style:font-pitch="variable"/>
+        <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+        <style:font-face style:name="Karumbi" svg:font-family="Karumbi" style:font-pitch="variable"/>
+        <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+        <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+        <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+        <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+        <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+        <style:font-face style:name="Noto Sans1" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+        <style:font-face style:name="Purisa" svg:font-family="Purisa" style:font-pitch="variable"/>
+    </office:font-face-decls>
+    <office:automatic-styles>
+        <style:style 
+            style:name="box-left" 
+            style:family="graphic" 
+            style:parent-style-name="standard"
+        >
+            <style:graphic-properties 
+                draw:stroke="none" 
+                svg:stroke-color="#000000" 
+                draw:fill="none" 
+                draw:fill-color="#ffffff" 
+                draw:textarea-vertical-align="bottom" 
+                draw:auto-grow-height="true" 
+                draw:auto-grow-width="false" 
+                fo:max-height="0cm" 
+                fo:min-height="10.342cm"
+            />
+            <style:paragraph-properties 
+                style:writing-mode="lr-tb"
+            />
+        </style:style>
+        <style:style style:name="Par-left" style:family="paragraph">
+            <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+            <style:paragraph-properties fo:text-align="end"/>
+            <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Purisa" fo:font-size="14pt" fo:letter-spacing="normal" fo:text-shadow="1pt 1pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="box-left" style:family="graphic" style:parent-style-name="standard">
+            <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-vertical-align="bottom" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="10.342cm"/>
+        </style:style>
+        <style:style 
+            style:name="box-right" 
+            style:family="graphic" 
+            style:parent-style-name="standard"
+        >
+            <style:graphic-properties 
+                draw:stroke="none" 
+                svg:stroke-color="#000000" 
+                draw:fill="none" 
+                draw:fill-color="#ffffff" 
+                draw:textarea-vertical-align="bottom" 
+                draw:auto-grow-height="true" 
+                draw:auto-grow-width="false" 
+                fo:max-height="0cm" 
+                fo:min-height="10.342cm"
+            />
+            <style:paragraph-properties 
+                style:writing-mode="lr-tb"
+            />
+        </style:style>
+        <style:style style:name="Par-right" style:family="paragraph">
+            <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+            <style:paragraph-properties fo:text-align="end"/>
+            <style:text-properties fo:color="#ffffff" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Purisa" fo:font-size="14pt" fo:letter-spacing="normal" fo:text-shadow="1pt 1pt" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="box-right" style:family="graphic" style:parent-style-name="standard">
+            <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-vertical-align="bottom" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="10.342cm"/>
+        </style:style>
+        <style:style style:name="Text" style:family="text">
+            <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Purisa" fo:font-size="14pt" fo:text-shadow="1pt 1pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+        </style:style>
+    </office:automatic-styles>
+    <office:body>
+        <office:presentation><draw:page draw:name="page1" draw:style-name="dp1" draw:master-page-name="Default">
+  <draw:frame draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:image xlink:href="Pictures/right.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-right" draw:text-style-name="par-right" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit (124)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Tyson (182)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Balzac (176)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth (184)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit et Tyson (123)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit et Balzac (236)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Tyson et Balzac (41)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit et Golgoth (238)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Tyson et Golgoth (147)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Balzac et Golgoth (154)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+  <draw:frame draw:layer="layout" svg:width="16.089cm" svg:height="11.217cm" svg:x="2.678cm" svg:y="16.51cm">
+    <draw:image xlink:href="Pictures/left.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-left" draw:text-style-name="par-right" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="16.51cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Tyson (243)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Golgoth (244)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Golgoth et Tyson (24)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+</draw:page>
+<draw:page draw:name="page2" draw:style-name="dp1" draw:master-page-name="Default">
+  <draw:frame draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:image xlink:href="Pictures/left.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-left" draw:text-style-name="par-left" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:text-box>
+
+    </draw:text-box>
+  </draw:frame>
+  <draw:frame draw:layer="layout" svg:width="16.089cm" svg:height="11.217cm" svg:x="2.678cm" svg:y="16.51cm">
+    <draw:image xlink:href="Pictures/left.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-left" draw:text-style-name="par-left" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="16.51cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Spit (85)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Balzac (27)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Balzac et Spit (17)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+</draw:page>
+<draw:page draw:name="page3" draw:style-name="dp1" draw:master-page-name="Default">
+  <draw:frame draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:image xlink:href="Pictures/left.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-left" draw:text-style-name="par-left" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:text-box>
+
+    </draw:text-box>
+  </draw:frame>
+  <draw:frame draw:layer="layout" svg:width="16.089cm" svg:height="11.217cm" svg:x="2.678cm" svg:y="16.51cm">
+    <draw:image xlink:href="Pictures/right.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-right" draw:text-style-name="par-left" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="16.51cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit (55)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth (2)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Balzac (217)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Balzac et Spit (81)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth et Spit (90)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Balzac et Golgoth (33)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+</draw:page>
+<draw:page draw:name="page4" draw:style-name="dp1" draw:master-page-name="Default">
+  <draw:frame draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:image xlink:href="Pictures/left.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-left" draw:text-style-name="par-left" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Spit (112)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Tyson (109)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Balzac (161)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Balzac et Spit (96)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Spit et Tyson (265)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Balzac et Tyson (110)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+  <draw:frame draw:layer="layout" svg:width="16.089cm" svg:height="11.217cm" svg:x="2.678cm" svg:y="16.51cm">
+    <draw:image xlink:href="Pictures/left.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-left" draw:text-style-name="par-left" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="16.51cm">
+    <draw:text-box>
+
+    </draw:text-box>
+  </draw:frame>
+</draw:page>
+<draw:page draw:name="page5" draw:style-name="dp1" draw:master-page-name="Default">
+  <draw:frame draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:image xlink:href="Pictures/right.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-right" draw:text-style-name="par-right" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit (208)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Tyson (68)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth (134)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit et Tyson (145)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth et Spit (117)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth et Tyson (193)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+  <draw:frame draw:layer="layout" svg:width="16.089cm" svg:height="11.217cm" svg:x="2.678cm" svg:y="16.51cm">
+    <draw:image xlink:href="Pictures/right.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-right" draw:text-style-name="par-right" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="16.51cm">
+    <draw:text-box>
+
+    </draw:text-box>
+  </draw:frame>
+</draw:page>
+<draw:page draw:name="page6" draw:style-name="dp1" draw:master-page-name="Default">
+  <draw:frame draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:image xlink:href="Pictures/right.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-right" draw:text-style-name="par-right" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:text-box>
+
+    </draw:text-box>
+  </draw:frame>
+  <draw:frame draw:layer="layout" svg:width="16.089cm" svg:height="11.217cm" svg:x="2.678cm" svg:y="16.51cm">
+    <draw:image xlink:href="Pictures/left.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-left" draw:text-style-name="par-right" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="16.51cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Spit (164)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+</draw:page>
+<draw:page draw:name="page7" draw:style-name="dp1" draw:master-page-name="Default">
+  <draw:frame draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:image xlink:href="Pictures/left.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-left" draw:text-style-name="par-left" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Balzac (45)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Golgoth (175)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Balzac et Golgoth (10)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+  <draw:frame draw:layer="layout" svg:width="16.089cm" svg:height="11.217cm" svg:x="2.678cm" svg:y="16.51cm">
+    <draw:image xlink:href="Pictures/right.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-right" draw:text-style-name="par-left" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="16.51cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit (67)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Tyson (96)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Balzac (66)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth (79)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Tyson et Spit (161)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit et Balzac (18)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth et Spit (29)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Tyson et Balzac (180)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth et Tyson (114)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth et Balzac (203)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+</draw:page>
+<draw:page draw:name="page8" draw:style-name="dp1" draw:master-page-name="Default">
+  <draw:frame draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:image xlink:href="Pictures/right.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-right" draw:text-style-name="par-right" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:text-box>
+
+    </draw:text-box>
+  </draw:frame>
+  <draw:frame draw:layer="layout" svg:width="16.089cm" svg:height="11.217cm" svg:x="2.678cm" svg:y="16.51cm">
+    <draw:image xlink:href="Pictures/left.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-left" draw:text-style-name="par-right" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="16.51cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Spit (194)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Balzac (12)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-left">
+        <text:span texttext:style-name="Text">Spit et Balzac (252)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+</draw:page>
+<draw:page draw:name="page9" draw:style-name="dp1" draw:master-page-name="Default">
+  <draw:frame draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:image xlink:href="Pictures/right.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-right" draw:text-style-name="par-right" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="2.108cm">
+    <draw:text-box>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit (153)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Tyson (173)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Balzac (228)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth (54)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Spit et Tyson (98)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Balzac et Spit (246)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Balzac et Tyson (68)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth et Spit (221)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Golgoth et Tyson (100)</text:span>
+      </text:p>
+      <text:p text:stype-name="Par-right">
+        <text:span texttext:style-name="Text">Balzac et Golgoth (189)</text:span>
+      </text:p>
+    </draw:text-box>
+  </draw:frame>
+  <draw:frame draw:layer="layout" svg:width="16.089cm" svg:height="11.217cm" svg:x="2.678cm" svg:y="16.51cm">
+    <draw:image xlink:href="Pictures/left.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg">
+    </draw:image>
+  </draw:frame>
+  <draw:frame draw:style-name="box-left" draw:text-style-name="par-right" draw:layer="layout" svg:width="16.085cm" svg:height="11.217cm" svg:x="2.54cm" svg:y="16.51cm">
+    <draw:text-box>
+
+    </draw:text-box>
+  </draw:frame>
+</draw:page></office:presentation>
+    </office:body>
+</office:document-content>
