@@ -90,7 +90,7 @@ function moveLeft(left, right, time, indent = "") {
                 (_, index) => index !== a && index !== b
             )
             children.push([
-                moveRight(newLeft, newRight, time + tA, indent),
+                moveRight(newLeft, newRight, time + Math.max(tA, tB), indent),
                 tA,
                 tB,
             ])
@@ -128,7 +128,7 @@ save(
         `<manifest:file-entry manifest:full-path="content.xml" manifest:media-type="text/xml"/>`,
         `<manifest:file-entry manifest:full-path="meta.xml" manifest:media-type="text/xml"/>`,
         ...pictures.map(
-            name =>
+            (name) =>
                 `<manifest:file-entry manifest:full-path="Pictures/${name}.jpg" manifest:media-type="image/jpeg"/>`
         ),
         `<manifest:file-entry manifest:full-path="Thumbnails/thumbnail.png" manifest:media-type="image/png"/>`,
@@ -208,7 +208,9 @@ function printPage(states, index) {
 
 save(
     "template/template/content.xml",
-    [0, 2, 4, 6, 8, 10, 12, 14, 16].map(index => printPage(states, index)).join("\n"),
+    [0, 2, 4, 6, 8, 10, 12, 14, 16]
+        .map((index) => printPage(states, index))
+        .join("\n"),
     "<office:presentation>",
     "</office:presentation>"
 )

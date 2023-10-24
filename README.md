@@ -15,7 +15,7 @@ How can you make them cross in 17 minutes?
 
 ----
 
-A Js program that solves this puzzle is available here: resolve.js
+A Js program that solves this puzzle is available here: scripts/resolve.js
 
 ```bash
 node solution/resolve.js
